@@ -9,10 +9,10 @@ header:
 ---
 
 Registration for CVIS 2024 is free of charge.
-<!--
- <a href="https://www.eventbrite.com/e/cvis2022-tickets-473430903577" class="btn btn--primary btn--large align-center" target="_blank" >Register Here</a> --> 
 
-<!--  
+ <a href="https://www.ticketfi.com/event/5912/cvis2024" class="btn btn--primary btn--large align-center" target="_blank" >Register Here</a> 
+
+  
 Please select the type of your registration and submit the registration form in the link above.
-See [Call for Papers](/call-for-papers) for paper submission -->
+See [Call for Papers](/call-for-papers) for paper submission
  
