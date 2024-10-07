@@ -50,6 +50,9 @@ keynotes:
 ---
 
 
+To be announced. 
+
+
 {% for keynote in page.keynotes %}
 ## {{ keynote.title }}
 <img src="{{ keynote.image}}" class="align-left" style="width: calc(30% - 0.5em);"/>
