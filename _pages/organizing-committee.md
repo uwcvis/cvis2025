@@ -11,11 +11,15 @@ Conference Chairs:
 - Chang Liu, University of Waterloo
 - Ken Nsiempba, University of Waterloo
 - Fernando Jose Pena Cantu, University of Waterloo
+- Jinman (Eddie) Park, University of Waterloo 
+
+Advisory committee: 
 - Yuhao Chen, University of Waterloo
 - Nicholas Pelligrino, University of Waterloo
+- Alexander Wong, Universy of Waterloo 
 
 
-Organizing Committee:
+
 
 Technical Program Committee:
 
