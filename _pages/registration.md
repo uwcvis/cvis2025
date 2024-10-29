@@ -14,5 +14,8 @@ Registration for CVIS 2024 is free of charge.
 
   
 Please select the type of your registration and submit the registration form in the link above.
-See [Call for papers](https://uwcvis.github.io/cvis2024/call-for-papers) for paper submission
+See [Call for papers](https://uwcvis.github.io/cvis2024/call-for-papers) for paper submission. 
+
+
+**For any questions, please send an email to cvis.uw@gmail.com.**
  

@@ -39,7 +39,14 @@ include, but are not limited to:
 
 {% include table.html data="important_dates" %}
 
+
+# Arxiv
+
+ You may optionally publish your paper on JVIS after the CVIS conference. If you would like to opt out of publication, please contact us before Jan 10th, 2025. Note that papers longer than 4 pages may violate the dual submission policy of some conferences. In the case that your paper is 5-6 pages, please use the JVIS template (compact template released after CVIS via an email to accepted authors) to check the page length in your camera-ready copy.
+
 # Poster Presentation
 Accept-poster papers are required to be present in person at DC 1301 on campus of **University of Waterloo**.
 A poster template can be downloaded here (the poster format is A0): [poster template](https://docs.google.com/presentation/d/13DWwser0PpAAf2ovwkDqwRDEuJ6ERlvC/edit?usp=sharing&ouid=106340322616558895574&rtpof=true&sd=true).
+
+**For any questions, please send an email to cvis.uw@gmail.com**
 
