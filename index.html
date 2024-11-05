@@ -49,61 +49,46 @@ intro:
      
 
       <!--- Technical Program is available  [here](/program).-->
+        
 important_dates:
   - title: "Important Dates"
     table: "important_dates"
 sponsors-plat:
 sponsors-gold:
-- url: https://miovision.com/
-image_path: assets/images/miovision.png
-alt: "Miovision"
-title: "Miovision"
+  - url: https://miovision.com/
+    image_path: assets/images/miovision.jpeg
+    alt: "Miovision"
+    title: "Miovision"
 sponsors-silver:
+
 ---
-
-<div class="feature__wrapper"></div>
-  <div class="feature__item--center" style="text-align: center">
-    <div class="archive__item-body">
-      <div class="archive__item-excerpt">
-        <img src="assets/images/cvislogo.png" alt="CVIS Logo" style="width:500%; max-width:500px;">
-      </div>
-      
-    </div>
-  </div>
-</div>
-
+    
 {% include feature_row_text id="intro" %}
 
 {% include feature_row_text id="important_dates" %}
 
 
-
-
-
 <div class="feature__wrapper">
-</div>
   <div class="feature__item--center" style="text-align: left">
     <div class="archive__item-body">
       <h1> Sponsors </h1>
       <h2 class="archive__item-title">Platinum</h2>
 
       <div class="archive__item-excerpt">
-        
+        {% include gallery id="sponsors-plat" class="align-center"%}
       </div>
 
       <h2 class="archive__item-title">Gold</h2>
 
       <div class="archive__item-excerpt">
-        
+        {% include gallery id="sponsors-gold"  class=archive__item-body %}
       </div>
 
       <h2 class="archive__item-title">Silver</h2>
 
       <div class="archive__item-excerpt">
-        
+        {% include gallery id="sponsors-silver"  class=archive__item-body %}
       </div>
     </div>
   </div>
 </div>
-
-
