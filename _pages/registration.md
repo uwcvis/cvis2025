@@ -17,5 +17,5 @@ Please select the type of your registration and submit the registration form in 
 See [Call for papers](https://uwcvis.github.io/cvis2024/call-for-papers) for paper submission. 
 
 
-**For any questions, please send an email to cvis.uw@gmail.com.**
+**For any questions, please send an email to cvis.uw@gmail.com**
  
