@@ -46,7 +46,10 @@ include, but are not limited to:
 
 # Poster Presentation
 Accept-poster papers are required to be present in person at DC 1301 on campus of **University of Waterloo**.
-A poster template can be downloaded here (the poster format is A0): [poster template](https://docs.google.com/presentation/d/13DWwser0PpAAf2ovwkDqwRDEuJ6ERlvC/edit?usp=sharing&ouid=106340322616558895574&rtpof=true&sd=true).
+A poster template can be downloaded here (the poster format is A0): 
+[Poster template](https://docs.google.com/presentation/d/1WbaOeZ45NPZQAZSdY8aTASEthx2k2zFl/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true).
+[Wide poster template](https://docs.google.com/presentation/d/13PlNkFUpIOF7tEh9d8WOEX_G6I-D9_wF/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true).
+
 
 **For any questions, please send an email to cvis.uw@gmail.com**
 
