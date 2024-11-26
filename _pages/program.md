@@ -26,10 +26,10 @@ viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf
 
 ---
 
-# E7 map for Day1
+# Davis Centre (DC) on the map 
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://cvis2022.github.io/assets/067E7_02FLR.pdf"> 
+<a href="https://maps.app.goo.gl/eRRYe9oRnwY9E5nPA" target="_blank">View Location on Google Maps</a>
+
 
 <br>
 
