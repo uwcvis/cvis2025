@@ -17,10 +17,11 @@ toc: true
 <embed src="https://drive.google.com/viewerng/
 viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf"> 
 
-<br>
+<br>-->
 
-[Download PDF](assets/Schedule-cvis2022.pdf){: .btn .btn--inverse}-->
+[Download PDF](assets/Schedule_lines.pdf){: .btn .btn--inverse}
 
+<iframe src="assets/Schedule_lines.pdf" width="100%" height="600px"></iframe>
 
 
 

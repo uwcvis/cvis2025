@@ -47,10 +47,6 @@ keynotes:
       bio: Pinaki Sarder is currently an associate professor of AI in the Section of Quantitative Health of the Department of Medicine, as well as the Associate Director for Imaging in the Intelligent Critical Care Center at the University of Florida (UF). Before joining UF, he was an associate professor in the Departments of Pathology & Anatomical Sciences and Biomedical Engineering at the University at Buffalo (UB), where he was at the center of building the computationally enabled graduate program Computational Cell Biology, Anatomy, and Pathology. Prior to UB, he completed post-doctoral training at Mallinckrodt Institute of Radiology at the Washington University in St. Louis (WUSTL) School of Medicine. He received his B.Tech. degree in electrical engineering from the Indian Institute of Technology, Kanpur, in 2003, and M.Sc. and Ph.D. degrees in electrical engineering from WUSTL in 2010.
 ---
 
-
-To be announced. 
-
-
 {% for keynote in page.keynotes %}
 ## {{ keynote.title }}
 <img src="{{ keynote.image}}" class="align-left" style="width: calc(30% - 0.5em);"/>
