@@ -11,7 +11,7 @@ keynotes:
   - title: AI and Formula 1
     time: Dec 2nd 10am-11am
     url: 
-    image: \assets\images\sorincheran.jpeg
+    image: \assets\images\sorincheran.jpg
     abstract: 
     author: 
       name: Sorin Cheran
