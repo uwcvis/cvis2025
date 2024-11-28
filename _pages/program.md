@@ -19,9 +19,9 @@ viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf
 
 <br>-->
 
-[Download PDF](assets/Schedule_lines.pdf){: .btn .btn--inverse}
+[Download PDF](assets/CVIS_2024_Program.pdf){: .btn .btn--inverse}
 
-<iframe src="assets/Schedule_lines.pdf" width="100%" height="600px"></iframe>
+<iframe src="assets/CVIS_2024_Program.pdf" width="100%" height="600px"></iframe>
 
 
 
