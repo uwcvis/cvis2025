@@ -14,7 +14,8 @@ keynotes:
     image: assets\images\sorincheran.jpg
     abstract: 
     author: 
-      name: Sorin Cheran
+      name: Sorin Cheran, Chief Information and Analytics Officer, Williams Racing
+at Formula 1
       description:
       bio: Sorin currently works in the Artificial Intelligence (AI) Lab at Hewlett Packard Labs. In his 12 years with HPE, Sorin has held a number of different roles. Until recently, he worked in the High-Performance Computing (HPC) and AI Competency Center in Grenoble, France as part of the Hybrid IT BU Presales team. Sorin’s career advancement has rapidly progressed from HPC Post-Sales Engineer to a customerfacing presales role and later, to Distinguished Technologist. 
   - title: 3D Computer Vision and its evolution from depth sensors to novel view synthesis 
@@ -26,11 +27,11 @@ keynotes:
       name: Prof. Andrea Tagliasacchi 
       description: 
       bio: Andrea Tagliasacchi is an associate professor at Simon Fraser University (Vancouver, Canada) where he holds the appointment of Visual Computing Research Chair within the school of computing science. He is also a part-time (20%) staff research scientist at Google DeepMind (Toronto, Canada), as well as an associate professor (status only) in the computer science department at the University of Toronto. Before joining SFU, he spent four wonderful years as a full-time researcher at Google (mentored by Paul Lalonde, Geoffrey Hinton, and David Fleet). Before joining Google, he was an assistant professor at the University of Victoria (2015-2017), where he held the Industrial Research Chair in 3D Sensing (jointly sponsored by Google and Intel). His alma mater include EPFL (postdoc) SFU (PhD, NSERC Alexander Graham Bell fellow) and Politecnico di Milano (MSc, gold medalist). Several of his papers have received best-paper award nominations at top-tier graphics and vision conferences, and he is the recipient of the 2015 SGP best paper award, the 2020 CVPR best student paper award, and the 2024 CVPR best paper award (honorable mention). His research focuses on 3D visual perception, which lies at the intersection of computer vision, computer graphics and machine learning. For more information, please visit https://theialab.ca. 
-  - title: Robotics and AI 
+  - title: Winter Is Coming - Extending Self-Driving Perception to Adverse Weather
     time: Dec 3rd 11am-12pm
     url:
     image: assets\images\steve-waslander.webp
-    abstract:
+    abstract: Self-driving vehicles are becoming increasingly capable and closer to large-scale deployment.  However, they are primarily restricted to operation in a few specific cities with favorable weather conditions.  In this talk, I will describe my research into enabling self-driving perception to succeed in adverse weather, be it snow, rain or fog.  I will outline the many challenges that degraded sensing presents, and identify the key limitations of current learning techniques which struggle to generalize to the wide variety of conditions that autonomous vehicles can encounter.  I will then discuss ongoing projects in my lab that are investigating generalization, adaptation, distillation and self-supervised learning as techniques to help rapidly expand the operational domain of perception networks, without heavy reliance on new labels in each domain.  This work will accelerate deployment of large autonomous vehicle fleets into new cities with more varied weather conditions.
     author:
       name: Prof. Steven Waslander
       description: 
