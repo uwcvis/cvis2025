@@ -8,17 +8,17 @@ header:
 permalink: /keynotes
 toc: true
 keynotes:
-  - title: AI and Formula 1
+  - title: Robot learning
     time: Dec 2nd 10am-11am
     url: 
-    image: assets\images\sorincheran.jpg
+    image: assets\images\yuchen.png
     abstract: 
     author: 
       name: Prof. Yuchen Cui
       description:
       bio: 
       Prof. Cui is  an Assitant Professor of Computer Science at UCLA and director of the UCLA Robot Intelligence Lab.
-      Her research interest lies at the intersection of machine learning, robotics, and human-robot interaction. her work focuses on developing algorithms, frameworks, and systems that facilitate efficient robot learning from human interactions. Specifically, she investigates how to 1) develop efficient learning algorithms, 2) harvest untapped data modalities, and 3) design intuitive interfaces for interactive learning. Her ultimate goal is to democratize autonomation by making robots accessible to everyday users.
+      Her research interest lies at the intersection of machine learning, robotics, and human-robot interaction. Her work focuses on developing algorithms, frameworks, and systems that facilitate efficient robot learning from human interactions. Specifically, she investigates how to 1) develop efficient learning algorithms, 2) harvest untapped data modalities, and 3) design intuitive interfaces for interactive learning. Her ultimate goal is to democratize autonomation by making robots accessible to everyday users.
       Prior to UCLA, she was an HAI postdoc fellow in the ILIAD lab, advised by Dorsa Sadigh at Stanford University. She received my PhD from the University of Texas at Austin in 2021, advised by Scott Niekum.
   - title: 3D Computer Vision and its evolution from depth sensors to novel view synthesis 
     time: Dec 2nd 1pm-2pm
