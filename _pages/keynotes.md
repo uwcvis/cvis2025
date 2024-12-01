@@ -14,9 +14,12 @@ keynotes:
     image: assets\images\sorincheran.jpg
     abstract: 
     author: 
-      name: Sorin Cheran, Chief Information and Analytics Officer, Williams Racing at Formula 1
+      name: Prof. Yuchen Cui
       description:
-      bio: Sorin Cheran is the Chief Information and Analytics Officer at Williams Racing, a British Formula 1 team. As the Chief Information and Analytics Officer,  Sorin oversees data processing and intelligent analytics before and during racing competitions including the Grand Prix. Prior to joining Williams Racing, Sorin worked at the Artificial Intelligence (AI) Lab at Hewlett Packard Labs. In his 12 years with HPE, Sorin has held a number of different roles. Until recently, he worked in the High-Performance Computing (HPC) and AI Competency Center in Grenoble, France as part of the Hybrid IT BU Presales team. Sorin’s career advancement has rapidly progressed from HPC Post-Sales Engineer to a customer-facing presales role and later, to a Distinguished Technologist
+      bio: 
+      Prof. Cui is  an Assitant Professor of Computer Science at UCLA and director of the UCLA Robot Intelligence Lab.
+      Her research interest lies at the intersection of machine learning, robotics, and human-robot interaction. her work focuses on developing algorithms, frameworks, and systems that facilitate efficient robot learning from human interactions. Specifically, she investigates how to 1) develop efficient learning algorithms, 2) harvest untapped data modalities, and 3) design intuitive interfaces for interactive learning. Her ultimate goal is to democratize autonomation by making robots accessible to everyday users.
+      Prior to UCLA, she was an HAI postdoc fellow in the ILIAD lab, advised by Dorsa Sadigh at Stanford University. She received my PhD from the University of Texas at Austin in 2021, advised by Scott Niekum.
   - title: 3D Computer Vision and its evolution from depth sensors to novel view synthesis 
     time: Dec 2nd 1pm-2pm
     url: https://theialab.ca 
