@@ -16,7 +16,7 @@ keynotes:
     author: 
       name: Sorin Cheran, Chief Information and Analytics Officer, Williams Racing at Formula 1
       description:
-      bio: Sorin currently works in the Artificial Intelligence (AI) Lab at Hewlett Packard Labs. In his 12 years with HPE, Sorin has held a number of different roles. Until recently, he worked in the High-Performance Computing (HPC) and AI Competency Center in Grenoble, France as part of the Hybrid IT BU Presales team. Sorin’s career advancement has rapidly progressed from HPC Post-Sales Engineer to a customerfacing presales role and later, to Distinguished Technologist. 
+      bio: Sorin Cheran is the Chief Information and Analytics Officer at Williams Racing, a British Formula 1 team. As the Chief Information and Analytics Officer,  Sorin oversees data processing and intelligent analytics before and during racing competitions including the Grand Prix. Prior to joining Williams Racing, Sorin worked at the Artificial Intelligence (AI) Lab at Hewlett Packard Labs. In his 12 years with HPE, Sorin has held a number of different roles. Until recently, he worked in the High-Performance Computing (HPC) and AI Competency Center in Grenoble, France as part of the Hybrid IT BU Presales team. Sorin’s career advancement has rapidly progressed from HPC Post-Sales Engineer to a customer-facing presales role and later, to a Distinguished Technologist
   - title: 3D Computer Vision and its evolution from depth sensors to novel view synthesis 
     time: Dec 2nd 1pm-2pm
     url: https://theialab.ca 
