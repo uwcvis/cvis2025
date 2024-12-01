@@ -8,18 +8,15 @@ header:
 permalink: /keynotes
 toc: true
 keynotes:
-  - title: Robot learning
+  - title: Interactive Robot Learning from Non-Expert Human Teachers 
     time: Dec 2nd 10am-11am
     url: 
     image: assets\images\yuchen.png
-    abstract: 
+    abstract: Today’s general-purpose robot learning policies are limited to 50-80% zero-shot performance on downstream tasks. To close this performance gap, deployed robots face the ongoing challenge of continually learning and adapting to diverse downstream tasks on demand under human guidance. Existing frameworks allow experts to guide robots in various ways including providing reward functions, demonstrations, and corrective feedback. However, most robots will only have access to non-expert users for guidance after deployment. At the same time, traditional machine learning methods often used in robot learning are tethered to the expectation of informative and near-optimal data. Novice human teachers---rich in practical experience yet lacking in robotics and engineering knowledge---bring data that strays from this ideal. My research addresses the challenges of robot learning brought by non-expert teachers and enables robots to effectively learn under non-expert human guidance, including 1) developing active reward learning algorithms to allow the robot to take an active role in learning by asking informative questions, 2) leveraging a hybrid action representation for imitation learning that is more robust to suboptimal demonstrations, and 3) enabling the robot to interpret the human teacher's natural feedback in the form of facial expressions, language, and gestures. Tapping into diverse sources of non-expert human feedback can lead to successful robot policies that can effectively work alongside humans and learn from them.
     author: 
       name: Prof. Yuchen Cui
       description:
-      bio: 
-      Prof. Cui is  an Assitant Professor of Computer Science at UCLA and director of the UCLA Robot Intelligence Lab.
-      Her research interest lies at the intersection of machine learning, robotics, and human-robot interaction. Her work focuses on developing algorithms, frameworks, and systems that facilitate efficient robot learning from human interactions. Specifically, she investigates how to 1) develop efficient learning algorithms, 2) harvest untapped data modalities, and 3) design intuitive interfaces for interactive learning. Her ultimate goal is to democratize autonomation by making robots accessible to everyday users.
-      Prior to UCLA, she was an HAI postdoc fellow in the ILIAD lab, advised by Dorsa Sadigh at Stanford University. She received my PhD from the University of Texas at Austin in 2021, advised by Scott Niekum.
+      bio: Yuchen Cui is currently an Assistant Professor of Computer Science at UCLA. Prior to UCLA, she was a postdoc in the Computer Science Department at Stanford University and a fellow of the Stanford Institute for Human-Centered AI. Yuchen's research focuses on interactive robot learning and specifically on how to enable low-effort teaching for non-expert users. Yuchen obtained her Ph.D. in Computer Science from the University of Texas at Austin. Her dissertation is titled "Efficient algorithms for low-effort human teaching of robots”. During her graduate studies, Yuchen also conducted internships at Honda Research Institute, Diligent Robotics, and Facebook AI Research.
   - title: 3D Computer Vision and its evolution from depth sensors to novel view synthesis 
     time: Dec 2nd 1pm-2pm
     url: https://theialab.ca 
