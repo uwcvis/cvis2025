@@ -11,6 +11,6 @@ main:
     url: /industrial-showcase
   - title: "Organizing Committee"
     url: /organizing-committee
-  - title: "Past Keynotes"
-    url: /past-keynotes
+  - title: "CVIS2023"
+    url: https://uwcvis.github.io/cvis2023/
 

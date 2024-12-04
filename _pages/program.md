@@ -41,25 +41,43 @@ viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf
 # CVIS 2024 Paper Awards
 
 BEST AI PAPER AWARD
-
-
-
+<br>
+Author: Nicholas Pellegrino​
+<br>
+Title: Hyperbolic Neural Networks are Parameter-Efficient Robustly-Trainable Hierarchical Data Classifiers
+<br>
+<br>
 BEST VISION PAPER AWARD
-
-
-
+<br>
+Author:Chang Liu 
+<br>
+Title: LangDA: Language-guided Domain Adaptive Semantic Segmentation
+<br>
+<br>
 BEST IMAGING PAPER AWARD
-
-
-
+<br>
+Author: Adrian Ramlal 
+<br>
+Title: Optimizing 3D Gaussian Splatting via Point Cloud Upsampling
+<br>
+<br>
 HONORABLE MENTION BEST AI PAPER AWARD
-
-
-
+<br>
+Author: Nicholas Pellegrino​ 
+<br>
+Title: Loss Functions Robust to the Presence of Label Errors
+<br>
+<br>
 HONORABLE MENTION BEST VISION PAPER AWARD
-
-
-
+<br>
+Author: Dayou Mao 
+<br>
+Title: Elevating Construction Monitoring: A Comprehensive UAV-Based Data Collection System for Outdoor Construction Dynamics
+<br>
+<br>
 HONORABLE MENTION BEST IMAGING PAPER AWARD
-
+<br>
+Author: Marian Boktor 
+<br>
+Title: Comparative Analysis of Multi-Channel Feature Extraction Using a Modified K-means and PCA for PARS-to-H&E Image Translation
 ----

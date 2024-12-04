@@ -7,22 +7,66 @@ header:
 permalink: /organizing-committee
 ---
 
-Conference Chairs:
-- Chang Liu, University of Waterloo
-- Ken Nsiempba, University of Waterloo
-- Fernando Jose Pena Cantu, University of Waterloo
-- Jinman (Eddie) Park, University of Waterloo 
 
-Advisory committee: 
-- Yuhao Chen, University of Waterloo
-- Nicholas Pelligrino, University of Waterloo
-- Alexander Wong, Universy of Waterloo 
+# Conference chairs
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+
+<div>
+  <img src="assets/images/changliu.jpg" alt="Mengye Ren" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h4>Chang Liu</h4>
+  <p><i>University of Waterloo</i></p>
+</div>
+
+<div>
+  <img src="assets/images/fernandopena.jpg" alt="Paul Vicol" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h4>Fernando Jose Pena Cantu</h4>
+  <p><i>University of Waterloo</i></p>
+</div>
+
+<div>
+  <img src="assets/images/jinmanpark.jpg" alt="Naila Murray" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h4>Jinman Park</h4>
+  <p><i>University of Waterloo</i></p>
+</div>
+
+<div>
+  <img src="assets/images/kennsiempba.jpg" alt="Renjie Liao" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h4>Ken Nsiempba</h4>
+  <p><i>University of Waterloo</i></p>
+</div>
+
+</div>
+
+<br>
+<br>
+<br>
+
+# Advisory committee
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+
+<div>
+  <img src="assets/images/yuhao.jpg" alt="Mengye Ren" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h4>Dr. Yuhao Chen</h4>
+  <p><i>University of Waterloo</i></p>
+</div>
+
+<div>
+  <img src="assets/images/alexwong.jpg" alt="Paul Vicol" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h4>Prof. Alexander Wong </h4>
+  <p><i>University of Waterloo</i></p>
+</div>
+
+<div>
+  <img src="assets/images/nickpellegrino.jpg" alt="Naila Murray" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h4>Nicholas Pellegrino</h4>
+  <p><i>University of Waterloo</i></p>
+</div>
+
+
+</div>
 
 
 
 
-Technical Program Committee:
-
-                  
-Thanks to the Past Committee Members：                         
-[https://cvis2021.weebly.com/organizing-committee.html](https://cvis2021.weebly.com/organizing-committee.html)
