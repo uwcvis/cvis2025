@@ -33,21 +33,22 @@
 
 
 <script>
-  // Intercept clicks on any link that points to the Keynote Speakers page
+  // Make Jekyll baseurl available in JS (handles GitHub Pages project sites)
+  var CVIS_BASE = "{{ site.baseurl | default: '' }}";
+  if (CVIS_BASE && CVIS_BASE.charAt(0) !== '/') CVIS_BASE = '/' + CVIS_BASE;
+  CVIS_BASE = CVIS_BASE.replace(/\/+$/, '');
+
   document.addEventListener('click', function (e) {
     var a = e.target.closest && e.target.closest('a');
     if (!a) return;
     try {
-      var path = new URL(a.href, location.href).pathname;
-      if (
-        path === '/keynotes' || path === '/keynotes/' || 
-        path === '/call-for-papers' || path === '/call-for-papers/' ||
-        path === '/program' || path === '/program/' || 
-        path === '/industrial-showcase' || path === '/industrial-showcase/' ||
-        path === '/organizing-committee' || path === '/organizing-committee/'
-      )  {
+      var fullPath = new URL(a.href, location.href).pathname;
+      // remove base if present so comparisons work both locally and on GH Pages
+      var path = (CVIS_BASE && fullPath.indexOf(CVIS_BASE) === 0) ? fullPath.slice(CVIS_BASE.length) : fullPath;
+      path = path.replace(/\/+$/, ''); // strip trailing slash
+      var blocked = ['/keynotes', '/call-for-papers', '/program', '/industrial-showcase', '/organizing-committee'];
+      if (blocked.indexOf(path) !== -1) {
         e.preventDefault();
-        // Friendly popup when Keynote Speakers page is not yet available
         alert('This page is not available yet.');
       }
     } catch (err) {
