@@ -17,8 +17,8 @@ toc: true
   3. Login by using the URL of CVIS 2024 at CMT. 
   4. Create a new submission.
   
-## Topics of interest
-include, but are not limited to:
+## Topics of Interest
+Include, but are not limited to:
 
 - Reconstruction, restoration, and enhancement
 - Machine learning / Artificial intelligence
@@ -39,17 +39,19 @@ include, but are not limited to:
 
 {% include table.html data="important_dates" %}
 
-
 # Arxiv
 
- You may optionally publish your paper on JVIS after the CVIS conference. If you would like to opt out of publication, please contact us before Jan 10th, 2025. Note that papers longer than 4 pages may violate the dual submission policy of some conferences. In the case that your paper is 5-6 pages, please use the JVIS template (compact template released after CVIS via an email to accepted authors) to check the page length in your camera-ready copy.
+ You may optionally publish your paper on JVIS after the CVIS conference. If you would like to opt out of publication, please contact us before TBA, 2026. Note that papers longer than 4 pages may violate the dual submission policy of some conferences. In the case that your paper is 5-6 pages, please use the JVIS template (compact template released after CVIS via an email to accepted authors) to check the page length in your camera-ready copy.
 
 # Poster Presentation
-Accept-poster papers are required to be present in person at DC 1301 on campus of **University of Waterloo**.
+Accept-poster papers are required to be present in person at *Location TBA* on campus of **University of Waterloo**.
 A poster template can be downloaded here (the poster format is A0): 
-[Poster template](https://docs.google.com/presentation/d/1WbaOeZ45NPZQAZSdY8aTASEthx2k2zFl/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true).
-[Wide poster template](https://docs.google.com/presentation/d/13PlNkFUpIOF7tEh9d8WOEX_G6I-D9_wF/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true).
 
+<div style="display: flex; gap: 20px;">
+  <a href="https://docs.google.com/presentation/d/1WbaOeZ45NPZQAZSdY8aTASEthx2k2zFl/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true">Poster template</a>
+  <a href="https://docs.google.com/presentation/d/13PlNkFUpIOF7tEh9d8WOEX_G6I-D9_wF/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true">Wide poster template</a>
+</div>
 
-**For any questions, please send an email to cvis.uw@gmail.com**
+<br>
 
+**For any questions, please send an email to [cvis.uw@gmail.com](mailto:cvis.uw@gmail.com)**

@@ -1,16 +1,15 @@
 main:
   - title: "Registration"
     url: /registration
-  - title: "Technical Program & Paper Awards"
-    url: /program
   - title: "Call for Papers"
     url: /call-for-papers
+  - title: "Technical Program & Paper Awards"
+    url: /program
   - title: "Keynote Speakers"
     url: /keynotes
   - title: "Industrial Showcase"
     url: /industrial-showcase
   - title: "Organizing Committee"
     url: /organizing-committee
-  - title: "CVIS2023"
-    url: https://uwcvis.github.io/cvis2023/
-
+  - title: "CVIS 2024"
+    url: https://uwcvis.github.io/cvis2024/

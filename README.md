@@ -1,4 +1,4 @@
-# CVIS2024 conference website
+# CVIS2025 conference website
 
 See jekyll installation instructions at [jekyll docs](https://jekyllrb.com/docs/)
 

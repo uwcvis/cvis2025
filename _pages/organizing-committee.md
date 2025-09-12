@@ -8,33 +8,15 @@ permalink: /organizing-committee
 ---
 
 
-# Conference chairs
+# Conference Chairs
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
 
-<div>
-  <img src="assets/images/changliu.jpg" alt="Mengye Ren" style="border-radius: 50%; width: 150px; height: 150px;">
-  <h4>Chang Liu</h4>
-  <p><i>University of Waterloo</i></p>
-</div>
-
-<div>
-  <img src="assets/images/fernandopena.jpg" alt="Paul Vicol" style="border-radius: 50%; width: 150px; height: 150px;">
-  <h4>Fernando Jose Pena Cantu</h4>
-  <p><i>University of Waterloo</i></p>
-</div>
-
-<div>
-  <img src="assets/images/jinmanpark.jpg" alt="Naila Murray" style="border-radius: 50%; width: 150px; height: 150px;">
-  <h4>Jinman Park</h4>
-  <p><i>University of Waterloo</i></p>
-</div>
-
-<div>
-  <img src="assets/images/kennsiempba.jpg" alt="Renjie Liao" style="border-radius: 50%; width: 150px; height: 150px;">
-  <h4>Ken Nsiempba</h4>
-  <p><i>University of Waterloo</i></p>
-</div>
+  <div>
+    <img src="assets/images/fernandopena.jpg" alt="Fernando Cantu" style="border-radius: 50%; width: 150px; height: 150px;">
+    <h4>Fernando Jose Pena Cantu</h4>
+    <p><i>University of Waterloo</i></p>
+  </div>
 
 </div>
 
