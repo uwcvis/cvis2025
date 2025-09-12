@@ -9,28 +9,9 @@ permalink: /program
 toc: true
 ---
 
-# Technical Program
-
-
-
-<!-- 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf"> 
-
-<br>-->
-
-[Download PDF](assets/CVIS_2024_Program.pdf){: .btn .btn--inverse}
-
-<iframe src="assets/CVIS_2024_Program.pdf" width="100%" height="600px"></iframe>
-
-
-
----
-
-# Davis Centre (DC) on the map 
+# Davis Centre (DC) Directions
 
 <a href="https://maps.app.goo.gl/eRRYe9oRnwY9E5nPA" target="_blank">View Location on Google Maps</a>
-
 
 <br>
 
@@ -38,46 +19,45 @@ viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf
 
 ---
 
-# CVIS 2024 Paper Awards
+# Technical Program
 
-BEST AI PAPER AWARD
-<br>
-Author: Nicholas Pellegrino​
-<br>
-Title: Hyperbolic Neural Networks are Parameter-Efficient Robustly-Trainable Hierarchical Data Classifiers
-<br>
-<br>
-BEST VISION PAPER AWARD
-<br>
-Author:Chang Liu 
-<br>
-Title: LangDA: Language-guided Domain Adaptive Semantic Segmentation
-<br>
-<br>
-BEST IMAGING PAPER AWARD
-<br>
-Author: Adrian Ramlal 
-<br>
-Title: Optimizing 3D Gaussian Splatting via Point Cloud Upsampling
-<br>
-<br>
-HONORABLE MENTION BEST AI PAPER AWARD
-<br>
-Author: Nicholas Pellegrino​ 
-<br>
-Title: Loss Functions Robust to the Presence of Label Errors
-<br>
-<br>
-HONORABLE MENTION BEST VISION PAPER AWARD
-<br>
-Author: Dayou Mao 
-<br>
-Title: Elevating Construction Monitoring: A Comprehensive UAV-Based Data Collection System for Outdoor Construction Dynamics
-<br>
-<br>
-HONORABLE MENTION BEST IMAGING PAPER AWARD
-<br>
-Author: Marian Boktor 
-<br>
-Title: Comparative Analysis of Multi-Channel Feature Extraction Using a Modified K-means and PCA for PARS-to-H&E Image Translation
-----
+<!-- 
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf"> 
+<br>-->
+
+[Download PDF](assets/CVIS_2024_Program.pdf){: .btn .btn--inverse}
+
+<iframe src="assets/CVIS_2024_Program.pdf" width="100%" height="600px"></iframe>
+
+---
+
+# CVIS 2025 Paper Awards
+
+Below are the CVIS 2025 paper awards. Winners will be announced and updated here.
+
+## Awards
+
+<dl class="award-list">
+  <dt><strong>Best AI Paper</strong></dt>
+  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+
+  <dt><strong>Best Vision Paper</strong></dt>
+  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+
+  <dt><strong>Best Imaging Paper</strong></dt>
+  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+</dl>
+
+## Honorable Mentions
+
+<dl class="award-list">
+  <dt>Honorable Mention - Best AI Paper</dt>
+  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+
+  <dt>Honorable Mention - Best Vision Paper</dt>
+  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+
+  <dt>Honorable Mention - Best Imaging Paper</dt>
+  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
+</dl>

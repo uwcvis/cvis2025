@@ -16,7 +16,7 @@ Registration for CVIS 2025 is **FREE** of charge.
 
 Please select the type of your registration and submit the registration form in the link above.
 
-See [Call for papers](/call-for-papers) for paper submission. 
+See [Call for Papers](/call-for-papers) for details about paper submission. 
 
 
 **For any questions, please send an email to [cvis.uw@gmail.com](mailto:cvis.uw@gmail.com)** 
