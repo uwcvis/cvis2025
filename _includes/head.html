@@ -32,3 +32,30 @@
 
 
 
+<script>
+  // Intercept clicks on any link that points to the Keynote Speakers page
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a');
+    if (!a) return;
+    try {
+      var path = new URL(a.href, location.href).pathname;
+      if (
+        path === '/keynotes' || path === '/keynotes/' || 
+        path === '/call-for-papers' || path === '/call-for-papers/' ||
+        path === '/program' || path === '/program/' || 
+        path === '/industrial-showcase' || path === '/industrial-showcase/' ||
+        path === '/organizing-committee' || path === '/organizing-committee/'
+      )  {
+        e.preventDefault();
+        // Friendly popup when Keynote Speakers page is not yet available
+        alert('This page is not available yet.');
+      }
+    } catch (err) {
+      // ignore malformed URLs
+    }
+  }, false);
+</script>
+
+
+
+
