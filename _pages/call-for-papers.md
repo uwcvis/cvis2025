@@ -11,7 +11,7 @@ toc: true
 # Paper Submission
 **Paper formatting**: Papers are limited to four pages, including figures and tables, in the CVIS style. Additional pages containing only cited references are allowed. 
 
-Please download the [CVIS 2025 Author Kit](/assets/CVIS_2025_Latex_Template.zip) for detailed formatting instructions.
+Please download the [CVIS 2025 Author Kit]({{ '/assets/CVIS_2025_Latex_Template.zip' | relative_url }}) for detailed formatting instructions.
 
 Papers that are not properly anonymized, or do not use the template, or have more than four pages (excluding references) will be rejected without review.
 
