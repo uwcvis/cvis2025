@@ -37,7 +37,7 @@ permalink: /organizing-committee
   </div>
 
   <div>
-    <img src="assets/images/cochairs/bio-photo.jpg" alt="Ksusha Buzko" style="border-radius: 50%; width: 150px; height: 150px;">
+    <img src="assets/images/cochairs/KsushaBuzko.jpg" alt="Ksusha Buzko" style="border-radius: 50%; width: 150px; height: 150px;">
     <h4>Ksusha Buzko</h4>
     <p><i>University of Waterloo</i></p>
   </div>
