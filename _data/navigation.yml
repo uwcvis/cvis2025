@@ -1,14 +1,20 @@
 main:
-  - title: "Registration"
-    url: /registration
   - title: "Call for Papers"
     url: /call-for-papers
-  - title: "Technical Program & Paper Awards"
+  - title: "Registration"
+    url: /registration
+  - title: "Author Guidelines"
+    url: /author-guidelines
+  - title: "Reviewer Guidelines"
+    url: /reviewer-guidelines
+  - title: "Technical Program"
     url: /program
   - title: "Keynote Speakers"
     url: /keynotes
   - title: "Industrial Showcase"
     url: /industrial-showcase
+  - title: "Paper Awards"
+    url: /awards
   - title: "Organizing Committee"
     url: /organizing-committee
   - title: "CVIS 2024"

@@ -1,5 +1,5 @@
 ---
-title: Technical Program & Paper Awards
+title: Technical Program
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -29,35 +29,3 @@ viewer?embedded=true&url=https://cvis2022.github.io/assets/Schedule-cvis2022.pdf
 [Download PDF](assets/CVIS_2024_Program.pdf){: .btn .btn--inverse}
 
 <iframe src="assets/CVIS_2024_Program.pdf" width="100%" height="600px"></iframe>
-
----
-
-# CVIS 2025 Paper Awards
-
-Below are the CVIS 2025 paper awards. Winners will be announced and updated here.
-
-## Awards
-
-<dl class="award-list">
-  <dt><strong>Best AI Paper</strong></dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
-
-  <dt><strong>Best Vision Paper</strong></dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
-
-  <dt><strong>Best Imaging Paper</strong></dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
-</dl>
-
-## Honorable Mentions
-
-<dl class="award-list">
-  <dt>Honorable Mention - Best AI Paper</dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
-
-  <dt>Honorable Mention - Best Vision Paper</dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
-
-  <dt>Honorable Mention - Best Imaging Paper</dt>
-  <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
-</dl>
