@@ -29,4 +29,4 @@ Include, but are not limited to:
 
 {% include table.html data="important_dates" %}
 
-# [Paper Submission](/author-guidelines)
+# [Paper Submission]({{ site.baseurl }}/author-guidelines)
