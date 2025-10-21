@@ -25,12 +25,6 @@ permalink: /organizing-committee
   </div>
 
   <div>
-    <img src="assets/images/cochairs/bio-photo.jpg" alt="Aguste Koh" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h4>Aguste Koh</h4>
-    <p><i>University of Waterloo</i></p>
-  </div>
-
-  <div>
     <img src="assets/images/cochairs/bio-photo.jpg" alt="Daniel Mao" style="border-radius: 50%; width: 150px; height: 150px;">
     <h4>Daniel Mao</h4>
     <p><i>University of Waterloo</i></p>
