@@ -65,14 +65,14 @@ permalink: /organizing-committee
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
 
 <div>
-  <img src="assets/images/yuhao.jpg" alt="Mengye Ren" style="border-radius: 50%; width: 150px; height: 150px;">
+  <img src="assets/images/advisors/yuhao.jpg" alt="Dr. Yuhao Chen" style="border-radius: 50%; width: 150px; height: 150px;">
   <h4>Dr. Yuhao Chen</h4>
   <p><i>University of Waterloo</i></p>
 </div>
 
 <div>
-  <img src="assets/images/alexwong.jpg" alt="Paul Vicol" style="border-radius: 50%; width: 150px; height: 150px;">
-  <h4>Prof. Alexander Wong </h4>
+  <img src="assets/images/advisors/alexwong.jpg" alt="Prof. Alexander Wong" style="border-radius: 50%; width: 150px; height: 150px;">
+  <h4>Prof. Alexander Wong</h4>
   <p><i>University of Waterloo</i></p>
 </div>
 

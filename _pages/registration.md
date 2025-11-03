@@ -14,7 +14,7 @@ Registration for CVIS 2025 is **FREE** of charge.
 
 <!-- <a href="#" onclick="alert('Registration is not open yet'); return false;" class="btn btn--primary btn--large align-center">Register Here</a>  -->
 
-Please select the type of your registration and submit the registration form in the link above.
+Please select the type and days of your registration and submit the registration form in the link above.
 
 See [Call for Papers]({{ site.baseurl }}/call-for-papers) for details about paper submission. 
 
