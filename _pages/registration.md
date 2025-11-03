@@ -10,9 +10,9 @@ header:
 
 Registration for CVIS 2025 is **FREE** of charge.
 
-<!-- <a href="https://www.ticketfi.com/event/5912/cvis2024" class="btn btn--primary btn--large align-center" target="_blank" >Register Here</a>  -->
+<a href="https://www.eventbrite.ca/e/1811095418149?aff=oddtdtcreator" class="btn btn--primary btn--large align-center" target="_blank" >Register Here</a> 
 
-<a href="#" onclick="alert('Registration is not open yet'); return false;" class="btn btn--primary btn--large align-center">Register Here</a> 
+<!-- <a href="#" onclick="alert('Registration is not open yet'); return false;" class="btn btn--primary btn--large align-center">Register Here</a>  -->
 
 Please select the type of your registration and submit the registration form in the link above.
 
