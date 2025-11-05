@@ -61,7 +61,7 @@ Complete paper submission by the deadline below. To begin the submission process
  <!-- Note that papers longer than 4 pages may violate the dual submission policy of some conferences. In the case that your paper is 5-6 pages, please use the JVIS template (compact template released after CVIS via an email to accepted authors) to check the page length in your camera-ready copy. -->
 
 # Poster Presentation
-Accept-poster papers are required to be present in person at **E7 Event Space** on campus of **University of Waterloo**.
+Accept-poster papers are required to be present in person at **Pearl Sullivan Engineering (Engineering 7) Event Space** on campus of **University of Waterloo**.
 
 *Poster templates will be released soon.*
 <!-- A poster template can be downloaded here (the poster format is A0):  -->
