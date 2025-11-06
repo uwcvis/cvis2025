@@ -54,7 +54,7 @@ Please note: The list of papers in your OpenReview profile is shared across conf
 **Step 5**:
 Complete paper submission by the deadline below. To begin the submission process, go to the OpenReview CVIS 2025 submission page, make sure you are logged in, click on the "CVIS 2025 Conference Submission" button, and then follow the instructions on the form that will appear.
 
-# arXiv
+# Main Journal Publication (opt-out)
 
  You may optionally publish your paper on Journal of Computational Vision and Imaging Systems (JVIS), the official journal of the KWVIS Society, after the CVIS conference. If you would like to opt out of publication, please contact us before January, 2026. 
  
