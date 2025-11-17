@@ -10,8 +10,9 @@ toc: true
 ---
 
 # CVIS 2025 Paper Awards
+There is a cash prize of $100 for each Best Paper Award.
 
-Below are the CVIS 2025 paper awards. Winners will be announced and updated here.
+Winners will be announced and updated here.
 
 ## Awards
 

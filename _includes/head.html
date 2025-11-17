@@ -48,7 +48,7 @@
       path = path.replace(/\/+$/, ''); // strip trailing slash
       // var blocked = ['/keynotes', '/call-for-papers', '/program', '/industrial-showcase', '/organizing-committee'];
       // var blocked = [];
-      var blocked = ['/keynotes', '/program', '/industrial-showcase', '/awards'];
+      var blocked = ['/keynotes', '/program', '/industrial-showcase'];
       if (blocked.indexOf(path) !== -1) {
         e.preventDefault();
         alert('This page is not available yet.');
