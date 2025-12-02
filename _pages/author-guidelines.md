@@ -63,15 +63,28 @@ Complete paper submission by the deadline below. To begin the submission process
 # Poster Presentation
 Accept-poster papers are required to be present in person at **Pearl Sullivan Engineering (Engineering 7) Event Space** on campus of **University of Waterloo**.
 
-*Poster templates will be released soon.*
-<!-- A poster template can be downloaded here (the poster format is A0):  -->
+<!-- *Poster templates will be released soon.* -->
+The poster template can be downloaded here. The poster format is A0 -- 84.1 cm (height) by 118.9 cm (width): 
 
-<!-- <div style="display: flex; gap: 20px;">
-  <a href="https://docs.google.com/presentation/d/1WbaOeZ45NPZQAZSdY8aTASEthx2k2zFl/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true">Poster template</a>
-  <a href="https://docs.google.com/presentation/d/13PlNkFUpIOF7tEh9d8WOEX_G6I-D9_wF/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true">Wide poster template</a>
-</div> -->
+<div style="display: flex; gap: 20px;">
+  <a href="https://docs.google.com/presentation/d/1BxM4Q3ENrbROLg7G4HNafFx-HdyTYAyI/edit?usp=sharing&ouid=107796028375890229452&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Poster Template</a>
+  <!-- Slides -->
+  <!-- <a href="https://docs.google.com/presentation/d/13PlNkFUpIOF7tEh9d8WOEX_G6I-D9_wF/edit?usp=sharing&ouid=114299942199244946947&rtpof=true&sd=true">Wide poster template</a> -->
+</div>
 
 <br>
+
+# Oral Presentation
+Accept-oral papers are required to be presented in person at **Pearl Sullivan Engineering (Engineering 7) Event Space** on campus of **University of Waterloo**.
+
+The length of the oral presentation is 15 min presentation + 5 minutes for questions. The slides template can be downloaded here: 
+
+<div style="display: flex; gap: 20px;">
+  <a href="https://docs.google.com/presentation/d/1S82g5AYXdCdX3VV2Svi3CJ28IHzUK_ds/edit?usp=drive_link&ouid=107796028375890229452&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Slides template</a>
+</div>
+
+<br>
+
 
 **For any questions, please send an email to [cvis.uw@gmail.com](mailto:cvis.uw@gmail.com)**
 
