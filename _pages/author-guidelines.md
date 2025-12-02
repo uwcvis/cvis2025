@@ -75,7 +75,7 @@ The poster template can be downloaded here. The poster format is A0 -- 84.1 cm (
 <br>
 
 # Oral Presentation
-Accept-oral papers are required to be presented in person at **Pearl Sullivan Engineering (Engineering 7) Event Space** on campus of **University of Waterloo**.
+Accept-oral papers are required to be presented in person at **Pearl Sullivan Engineering (Engineering 7) Conrad Hub (E7-2357)** on campus of **University of Waterloo**.
 
 The length of the oral presentation is 15 min presentation + 5 minutes for questions. The slides template can be downloaded here: 
 
