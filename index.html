@@ -57,33 +57,6 @@ intro:
 important_dates:
   - title: "Important Dates"
     table: "important_dates"
-sponsors-plat:
-- url: https://www.tritoncanada.ca/
-  image_path: assets/images/tritonverify.png
-  alt: "TritonVerify"
-  title: "TritonVerify"
-- url: https://www.sixtydegreecapital.com/
-  image_path: assets/images/60deg.webp
-  alt: "Sixtydegreecapital"
-  title: "Sixtydegreecapital"
-- url: https://rootly.com/
-  image_path: assets/images/rootly.png
-  alt: "Rootly"
-  title: "Rootly"
-sponsors-gold:
-- url: https://miovision.com/
-  image_path: assets/images/miovision.jpeg
-  alt: "Miovision"
-  title: "Miovision"
-- url: https://uwaterloo.ca/graduate-studies-endowment-fund/about
-  image_path: assets/images/GSEF.png
-  alt: "GSEF"
-  title: "GSEF"
-sponsors-silver:
-- url: https://www.sportlogiq.com/
-  image_path: assets/images/sportlogiq.png
-  alt: "SportLogic"
-  title: "SportLogic"
 ---
 
 <h1 style="text-align: center"> Introduction </h1>
@@ -144,21 +117,39 @@ sponsors-silver:
   <div class="feature__item--center" style="text-align: left">
     <div class="archive__item-body">
       <h1 style="text-align: center"> Sponsors </h1>
-      <p>Interested sponsors are encouraged to contact <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      <p style="text-align: center;">Interested sponsors are encouraged to contact <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
 
-      <h2 class="archive__item-title">Platinum</h2>
-      <div class="archive__item-excerpt">
-        <!-- {% include gallery id="sponsors-plat" class="align-center" %} -->
+      <h2 class="archive__item-title" style="text-align: center;">Platinum</h2>
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
+        {% for sponsor in site.data.sponsors.platinum %}
+          <div style="text-align: center;">
+            <a href="{{ sponsor.url }}" target="_blank">
+              <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" style="max-width: 300px; max-height: 150px; object-fit: contain;">
+            </a>
+          </div>
+        {% endfor %}
       </div>
 
-      <h2 class="archive__item-title">Gold</h2>
-      <div class="archive__item-excerpt">
-        <!-- {% include gallery id="sponsors-gold"  class=archive__item-body %} -->
+      <h2 class="archive__item-title" style="text-align: center;">Gold</h2>
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
+        {% for sponsor in site.data.sponsors.gold %}
+          <div style="text-align: center;">
+            <a href="{{ sponsor.url }}" target="_blank">
+              <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" style="max-width: 250px; max-height: 125px; object-fit: contain;">
+            </a>
+          </div>
+        {% endfor %}
       </div>
 
-      <h2 class="archive__item-title">Silver</h2>
-      <div class="archive__item-excerpt">
-        <!-- {% include gallery id="sponsors-silver"  class=archive__item-body %} -->
+      <h2 class="archive__item-title" style="text-align: center;">Silver</h2>
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
+        {% for sponsor in site.data.sponsors.silver %}
+          <div style="text-align: center;">
+            <a href="{{ sponsor.url }}" target="_blank">
+              <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" style="max-width: 200px; max-height: 100px; object-fit: contain;">
+            </a>
+          </div>
+        {% endfor %}
       </div>
     </div>
   </div>

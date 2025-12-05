@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: Author Guidelines
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

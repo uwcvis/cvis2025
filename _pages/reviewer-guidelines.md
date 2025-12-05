@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: Reviewer Guidelines
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -7,7 +7,6 @@ header:
 permalink: /reviewer-guidelines
 toc: true
 ---
-
 
 # Reviewer Guidelines
 
