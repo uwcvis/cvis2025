@@ -6,6 +6,8 @@ header:
   overlay_image: https://cvis2021.weebly.com/uploads/5/6/3/0/56308869/background-images/236520036.jpg
 permalink: /reviewer-guidelines
 toc: true
+toc_label: "Guidelines"
+toc_icon: "clipboard"
 ---
 
 # Reviewer Guidelines
@@ -48,6 +50,7 @@ The following sections outline the **core criteria** for acceptance or rejection
 - Are the experiments or analyses appropriate for the stated goals?
 - Are results presented clearly and interpreted correctly?
 - Even if results are preliminary, do they reasonably support the conclusions?
+
 ---
 
 ## **Novelty or Originality**

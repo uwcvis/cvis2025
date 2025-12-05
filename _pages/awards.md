@@ -7,6 +7,8 @@ header:
   actions:
 permalink: /awards
 toc: true
+toc_label: "Award Categories"
+toc_icon: "trophy"
 ---
 
 # CVIS 2025 Paper Awards

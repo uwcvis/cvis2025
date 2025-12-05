@@ -16,6 +16,11 @@ gold:
     alt: "Stathletes"
     title: "Stathletes"
     description: ""
+  - url: https://www.rockwellautomation.com/en-ca.html
+    image_path: assets/images/sponsors/rockwellautomation.png
+    alt: "Rockwell Automation"
+    title: "Rockwell Automation"
+    description: ""
 
 silver:
   - url: https://watai.ca/
@@ -27,4 +32,9 @@ silver:
     image_path: assets/images/sponsors/sportlogiq.png
     alt: "SportLogiq"
     title: "SportLogiq"
+    description: ""
+  - url: https://www.ladeessemedi.com/
+    image_path: assets/images/sponsors/ladeessemedi.png
+    alt: "Ladeesse Medi"
+    title: "Ladeesse Medi"
     description: ""

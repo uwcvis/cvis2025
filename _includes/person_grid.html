@@ -1,0 +1,14 @@
+{% comment %}
+  Include for displaying person cards in a grid
+  Usage: {% include person_grid.html people=site.data.conference_chairs %}
+{% endcomment %}
+
+<div class="person-grid">
+  {% for person in include.people %}
+  <div class="person-card">
+    <img src="{{ person.image | relative_url }}" alt="{{ person.name }}" class="person-avatar">
+    <h4 class="person-name">{{ person.name }}</h4>
+    <p class="person-affiliation">{{ person.affiliation }}</p>
+  </div>
+  {% endfor %}
+</div>

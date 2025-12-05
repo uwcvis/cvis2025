@@ -6,6 +6,8 @@ header:
   overlay_image: https://cvis2021.weebly.com/uploads/5/6/3/0/56308869/background-images/236520036.jpg
 permalink: /author-guidelines
 toc: true
+toc_label: "Guidelines"
+toc_icon: "book"
 ---
 
 # Author Guidelines

@@ -1,0 +1,15 @@
+{% comment %}
+  Include for displaying sponsor tier
+  Usage: {% include sponsor_tier.html tier="platinum" title="Platinum Sponsors" %}
+{% endcomment %}
+
+<h2 class="sponsor-tier-title {{ include.tier }}">{{ include.title }}</h2>
+<div class="sponsor-grid">
+  {% for sponsor in site.data.sponsors[include.tier] %}
+    <div class="sponsor-item">
+      <a href="{{ sponsor.url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" class="sponsor-logo {{ include.tier }}">
+      </a>
+    </div>
+  {% endfor %}
+</div>

@@ -7,6 +7,8 @@ header:
   actions:
 permalink: /keynotes
 toc: true
+toc_label: "Speakers"
+toc_icon: "microphone"
 keynotes:
   - title: Artificial Intelligence for Music, from Audio to Video, from Cyber to Physical
     time: Dec 15th 2:15pm-3:00pm
@@ -47,24 +49,45 @@ keynotes:
 ---
 
 {% for keynote in page.keynotes %}
-## {{ keynote.title }}
-<img src="{{ keynote.image}}" class="align-left" style="width: calc(30% - 0.5em);"/>
+<div class="keynote-section">
+  <h2 class="keynote-title">{{ keynote.title }}</h2>
+  
+  <div class="keynote-meta">
+    {% if keynote.time %}
+    <div class="keynote-time">{{ keynote.time }}</div>
+    {% endif %}
+    {% if keynote.url %}
+    <div class="keynote-link"><a href="{{ keynote.url }}" target="_blank" rel="noopener noreferrer">{{ keynote.url }}</a></div>
+    {% endif %}
+  </div>
 
-{% if keynote.time %} <sub>{{keynote.time}} </sub>  {% endif %}
+  <div class="keynote-content">
+    <div class="keynote-image-wrapper">
+      <img src="{{ keynote.image | relative_url }}" alt="{{ keynote.author.name }}" class="keynote-image">
+    </div>
+    
+    <div class="keynote-details">
+      <div class="keynote-speaker">
+        <h4 class="speaker-name">{{ keynote.author.name }}</h4>
+        {% if keynote.author.description %}
+        <p>{{ keynote.author.description }}</p>
+        {% endif %}
+      </div>
 
+      {% if keynote.abstract %}
+      <div class="keynote-abstract">
+        <h4>Abstract</h4>
+        <p>{{ keynote.abstract }}</p>
+      </div>
+      {% endif %}
 
-{% if keynote.url %} <sub> {{keynote.url}}</sub> {% endif %}
-
-{% if keynote.abstract %}
-**Abstract:** 
-{{keynote.abstract}}
-{% endif %}
-
-**Speaker Info:**
-{{keynote.author.name}}
-
-{{keynote.author.description}}
-
-{{keynote.author.bio}}
-
+      {% if keynote.author.bio %}
+      <div class="keynote-bio">
+        <h4>Biography</h4>
+        <p>{{ keynote.author.bio }}</p>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
 {% endfor %}

@@ -6,48 +6,51 @@ header:
   overlay_image: https://cvis2021.weebly.com/uploads/5/6/3/0/56308869/background-images/236520036.jpg
 permalink: /industrial-showcase
 toc: true
+toc_label: "On This Page"
+toc_icon: "list"
 ---
 
-<div class="feature__wrapper">
-  <div style="text-align: center;">
-    <div class="archive__item-body">
-      <h1>Industrial Showcases</h1>
-      <p>We are proud to showcase our industry partners who support CVIS 2025.</p>
-      <p>Interested sponsors are encouraged to contact <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+<div class="sponsors-wrapper" markdown="1">
 
-      <h2 class="archive__item-title">Platinum Sponsors</h2>
-      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
-        {% for sponsor in site.data.sponsors.platinum %}
-          <div style="text-align: center;">
-            <a href="{{ sponsor.url }}" target="_blank">
-              <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" style="max-width: 300px; max-height: 150px; object-fit: contain;">
-            </a>
-          </div>
-        {% endfor %}
-      </div>
+We are proud to showcase our industry partners who support CVIS 2025.
 
-      <h2 class="archive__item-title">Gold Sponsors</h2>
-      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
-        {% for sponsor in site.data.sponsors.gold %}
-          <div style="text-align: center;">
-            <a href="{{ sponsor.url }}" target="_blank">
-              <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" style="max-width: 250px; max-height: 125px; object-fit: contain;">
-            </a>
-          </div>
-        {% endfor %}
-      </div>
+Interested sponsors are encouraged to contact <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-      <h2 class="archive__item-title">Silver Sponsors</h2>
-      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
-        {% for sponsor in site.data.sponsors.silver %}
-          <div style="text-align: center;">
-            <a href="{{ sponsor.url }}" target="_blank">
-              <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" style="max-width: 200px; max-height: 100px; object-fit: contain;">
-            </a>
-          </div>
-        {% endfor %}
-      </div>
+## Platinum Sponsors
+
+<div class="sponsor-grid">
+  {% for sponsor in site.data.sponsors.platinum %}
+    <div class="sponsor-item">
+      <a href="{{ sponsor.url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" class="sponsor-logo platinum">
+      </a>
     </div>
-  </div>
+  {% endfor %}
+</div>
+
+## Gold Sponsors
+
+<div class="sponsor-grid">
+  {% for sponsor in site.data.sponsors.gold %}
+    <div class="sponsor-item">
+      <a href="{{ sponsor.url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" class="sponsor-logo gold">
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+## Silver Sponsors
+
+<div class="sponsor-grid">
+  {% for sponsor in site.data.sponsors.silver %}
+    <div class="sponsor-item">
+      <a href="{{ sponsor.url }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ sponsor.image_path | relative_url }}" alt="{{ sponsor.alt }}" title="{{ sponsor.title }}" class="sponsor-logo silver">
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
 </div>
 
