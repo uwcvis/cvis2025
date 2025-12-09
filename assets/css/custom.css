@@ -416,21 +416,72 @@ table {
   border-radius: 50px;
   transition: all 0.3s ease;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  color: white !important;
+  text-decoration: none;
 }
 
 .btn:hover {
   transform: translateY(-3px);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  color: white !important;
 }
 
 .btn--primary {
   background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
   border: none;
+  color: white !important;
+}
+
+.btn--primary:visited,
+.btn--primary:link,
+.btn--primary:active {
+  color: white !important;
 }
 
 .btn--inverse {
   background: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
   border: none;
+  color: white !important;
+}
+
+/* Override any link colors inside buttons */
+a.btn,
+a.btn--primary,
+a.btn--inverse {
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background-clip: padding-box !important;
+  -webkit-background-clip: padding-box !important;
+}
+
+a.btn:hover,
+a.btn--primary:hover,
+a.btn--inverse:hover,
+a.btn:visited,
+a.btn--primary:visited,
+a.btn--inverse:visited,
+a.btn:link,
+a.btn--primary:link,
+a.btn--inverse:link,
+a.btn:active,
+a.btn--primary:active,
+a.btn--inverse:active {
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background-clip: padding-box !important;
+  -webkit-background-clip: padding-box !important;
+}
+
+/* Target any potential theme overrides */
+.page__content a.btn,
+.page__content a.btn--primary,
+.intro-section a.btn,
+.intro-section a.btn--primary {
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background: linear-gradient(135deg, #3498db 0%, #2980b9 100%) !important;
+  background-clip: padding-box !important;
+  -webkit-background-clip: padding-box !important;
 }
 
 /* ==================== */
@@ -1116,9 +1167,31 @@ table {
   position: relative;
 }
 
+/* Override for buttons inside intro-section */
+.intro-section a.btn,
+.intro-section a.btn--primary,
+.intro-section a.btn--inverse,
+.intro-section a.btn--large {
+  color: white !important;
+  -webkit-text-fill-color: white !important;
+  background-clip: padding-box !important;
+  -webkit-background-clip: padding-box !important;
+  border-bottom: none !important;
+  text-decoration: none !important;
+}
+
 .intro-section a:hover {
   border-bottom-color: var(--accent-color);
   color: var(--accent-color) !important;
+}
+
+/* Keep buttons white on hover */
+.intro-section a.btn:hover,
+.intro-section a.btn--primary:hover,
+.intro-section a.btn--inverse:hover,
+.intro-section a.btn--large:hover {
+  color: white !important;
+  -webkit-text-fill-color: white !important;
 }
 
 /* Ensure all email links are visible */

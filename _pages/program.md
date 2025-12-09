@@ -15,10 +15,9 @@ toc_icon: "map"
 
 <div class="intro-section">
   <h3 style="text-align: center; margin-bottom: 1rem;">Pearl Sullivan Engineering (Engineering 7) Building</h3>
-    <p style="text-align: center;">
-      <a href="https://maps.app.goo.gl/eRRYe9oRnwY9E5nPA" target="_blank" rel="noopener noreferrer" class="btn btn--primary">View on Google Maps</a>
-    </p>
-  </div>
+  <p style="text-align: center;">
+    <a href="https://www.google.com/maps/place/Engineering+7+(E7)/@43.4730414,-80.5420988,17z/data=!3m1!4b1!4m6!3m5!1s0x882bf403ba0150eb:0xebbfa4342ecc7943!8m2!3d43.4730414!4d-80.5395239!16s%2Fg%2F11bz_y_9ry?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener noreferrer" class="btn btn--primary">View on Google Maps</a>
+  </p>
 </div>
 
 <div class="divider"></div>
@@ -26,11 +25,10 @@ toc_icon: "map"
 ## Technical Program
 
 <div class="intro-section" style="text-align: center;">
-    <p style="margin-bottom: 1.5rem;">Download or view the complete conference program below:</p>
-    <a href="assets/CVIS_2024_Program.pdf" class="btn btn--primary btn--large" download>Download PDF</a>
-  </div>
-  
-  <div style="margin-top: 2rem;">
-    <iframe src="assets/CVIS_2024_Program.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 8px;"></iframe>
-  </div>
+  <p style="margin-bottom: 1.5rem;">Download or view the complete conference program below:</p>
+  <a href="assets/CVIS_2025_Program.pdf" class="btn btn--primary btn--large" download>Download PDF</a>
+</div>
+
+<div style="margin-top: 2rem;">
+  <iframe src="assets/CVIS_2025_Program.pdf" width="100%" height="600px" style="border: 1px solid #ddd; border-radius: 8px;"></iframe>
 </div>
