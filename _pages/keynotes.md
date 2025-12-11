@@ -42,17 +42,18 @@ keynotes:
         image: assets/images/speakers/yun.jpg
         bio: |
           Kristen Yeon-Ji Yun is a clinical associate professor in the Department of Music in the Patti and Rusty Rueff School of Design, Art, and Performance at Purdue University. She is the principal investigator of a research grant IIS-2326198 from the National Science Foundation on the topic "Artificial Intelligence Technology for Future Music Performers". She is active as a soloist, chamber musician, musical scholar, and clinician. Dr. Yun has toured many countries including Spain, France, Italy, Taiwan, Germany, Mexico, Japan, Malaysia, Thailand, China, Hong-Kong, and South Korea giving a series of successful concerts and master classes. She is a winner in numerous competitions around the world. Yun performs on a French cello, made by Guersan in 1766.
-  - title: TBA
+  - title: Advancing accelerator based science with Machine Learning and Quantum Computing at TRIUMF
     time: Dec 16th 1:00pm-2:00pm
-    url:
-    image: assets/images/bio-photo.jpg
+    url: https://www.linkedin.com/in/wfedorko/?originalSubdomain=ca
+    image: assets/images/speakers/fedorko.jpeg
     abstract: |
-      TBA
+      TRIUMF is Canada’s particle accelerator centre with a rich on-site programme in nuclear physics, particle physics, accelerator physics, material sciences and life sciences. It also serves as Canada’s hub for Canadian scientists to participate in large global science endeavours like these at the CERN’s Large Hadron Collider in Europe or large neutrino Experiments (Super-Kamiokande, Hyper-Kamiokande) in Japan. I will take the audience on a tour, highlighting how applications of modern and traditional Machine Learning enhance science outcomes at the lab. We will also glimpse how quantum computing can be presently utilized to give a us an edge today in select cases.
     author:
-      name: TBA
+      name: Dr. Wojciech Fedorko
+      affiliation: TRIUMF
       description: 
       bio: |
-        TBA
+        Dr Wojciech Fedorko completed his undergraduate studies at University of Toronto in Physics Mathematics and Computer Science. He completed his doctorate in physics at the University of Chicago (2008),  Where he developed real-time data processing systems and studied properties of the top quark at the CDF Experiment at Fermilab’s Tevatron. He then joined the ATLAS Experiment with fellowships and postdoctoral posts at CERN, Michigan State, and UBC.  He now serves as TRIUMF’s Deputy Department Head for Scientific Computing concentrating on ML applications to many branches of science pursued at TRIUMF.
   - title: |
       From Research to Reality: Four Lessons for Lasting Impact in Robotics.
     time: Dec 16th 2:00pm-3:00pm 
@@ -168,13 +169,16 @@ keynotes:
   {% endif %}
 </div>
 
-## TBA
+## Advancing accelerator based science with Machine Learning and Quantum Computing at TRIUMF
 
 {% assign keynote = page.keynotes[2] %}
 <div class="keynote-section">
   <div class="keynote-meta">
     {% if keynote.time %}
     <div class="keynote-time">{{ keynote.time }}</div>
+    {% endif %}
+    {% if keynote.url %}
+    <div class="keynote-link"><a href="{{ keynote.url }}" target="_blank" rel="noopener noreferrer">{{ keynote.url }}</a></div>
     {% endif %}
   </div>
 
@@ -196,6 +200,12 @@ keynotes:
           <h4 class="speaker-name">{{ keynote.author.name }}</h4>
           {% if keynote.author.affiliation %}
           <p style="font-style: italic; color: #7f8c8d;">{{ keynote.author.affiliation }}</p>
+          {% endif %}
+          {% if keynote.author.description %}
+          <p>{{ keynote.author.description }}</p>
+          {% endif %}
+          {% if keynote.url %}
+          <p><a href="{{ keynote.url }}" target="_blank" rel="noopener noreferrer" style="color: var(--primary-color);">{{ keynote.url }}</a></p>
           {% endif %}
         </div>
 
