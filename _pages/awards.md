@@ -41,3 +41,7 @@ Winners will be announced and updated here.
   <dt>Honorable Mention - Best Imaging Paper</dt>
   <dd><strong>Author:</strong> <em>TBA</em> &nbsp;|&nbsp; <strong>Title:</strong> <em>TBA</em></dd>
 </dl>
+
+## Acknowledgments
+
+We would like to thank [Javad Shafiee](https://uwaterloo.ca/sustainable-aeronautics/profiles/javad-shafiee), Research Assistant Professor, Faculty of Engineering, for selecting the award winners.
